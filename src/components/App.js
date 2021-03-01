@@ -68,7 +68,7 @@ const App = () => {
                 style = {{
                   left : ballPosition.left,
                   top : ballPosition.top,
-                  position :"absolute"
+                  
                 }}
 
             ></div>
